@@ -1,0 +1,40 @@
+body{
+padding: 0px;
+}
+.navbar {
+background-color: #333!important ;
+height: 140px;
+color: #fff;
+}
+.brand {
+position: absolute;
+left: 50%;
+margin-left: -60px !important; 
+display: block;
+}
+.navItems {
+margin-top: 80px;
+}
+.fourAbout{
+margin-top: 50px;
+line-height: 130%;
+}
+.bGColor{
+background-color:#eaf5e9;
+padding: 10px;
+margin:30px 0px 30px 0px;
+}
+.btn{
+margin: 10px !important;
+background-color: green;
+padding: 30px 10px 30px 10px;
+width:  250px;
+border-radius: 2px !important;
+color: #fff;
+}
+footer{
+margin-top: 50px;
+background-color: #333!important ;
+height: 140px;
+color: #fff;   
+}
